@@ -9,8 +9,8 @@ project "GLFW"
 	{
 	        "include/GLFW/glfw3.h",
 	        "include/GLFW/glfw3native.h",
-		"src/**.h"
-		"src/**.c",
+		"src/**.h",
+		"src/**.c"
 	    }
     
 	filter "system:windows"
